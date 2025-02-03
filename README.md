@@ -1,1 +1,1 @@
-[![Codewars](https://www.codewars.com/users/AlexSinos/badges/large)](https://www.codewars.com/users/AlexSinos)
+![Codewars](https://github.r2v.ch/codewars?user=AlexSinos&stroke=Blue)
